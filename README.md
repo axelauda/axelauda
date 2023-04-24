@@ -8,6 +8,10 @@
   - [Email Database w/ Announcements (EZGmail API, Tkinter)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Amusement Park Ride & Boarding Passengers (w/ Semaphores)</b>
   - [Using Semaphores to Provide Mutual Exclusion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Full Knight Traversal on n-size Chessboard</b>
+  - [Using Recursion to Traverse Whole Chessboard w/ Knight](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Amusement Park Ride & Boarding Passengers (w/ Semaphores)</b>
+  - [Using Semaphores to Provide Mutual Exclusion](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <!--
 **axelauda/axelauda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
