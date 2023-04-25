@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Thread Practice in C</b>
-  - [Finding Amicable Number Pairs (w/ Threads)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Finding Amicable Number Pairs (w/ Threads)](https://github.com/axelauda/Finding-Amicable-Number-Pairs-w-Threads-)
 - <b>Python</b>
   - [Email Database w/ Announcements (EZGmail API, Tkinter)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Using Semaphores to Provide Mutual Exclusion</b>
