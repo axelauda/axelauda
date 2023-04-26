@@ -9,7 +9,7 @@
 - <b>Python</b>
   - [Email Database w/ Announcements (EZGmail API, Tkinter)](https://github.com/axelauda/Email-Database-w-Announcements)
 - <b>Using Recursion to Traverse Whole Chessboard w/ Knight</b>
-  - [Full Knight Traversal on n-size Chessboard](https://github.com/axelauda/Full-Night-Traversal-on-n-size-Chessboard)
+  - [Full Knight Traversal on (nxn)-size Chessboard](https://github.com/axelauda/Full-Night-Traversal-on-n-size-Chessboard)
 <!--
 **axelauda/axelauda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
