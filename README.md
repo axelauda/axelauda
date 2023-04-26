@@ -4,10 +4,10 @@
 
 - <b>Thread Practice in C</b>
   - [Finding Amicable Number Pairs (w/ Threads)](https://github.com/axelauda/Finding-Amicable-Number-Pairs-w-Threads-)
-- <b>Python</b>
-  - [Email Database w/ Announcements (EZGmail API, Tkinter)](https://github.com/axelauda/Email-Database-w-Announcements)
 - <b>Using Semaphores to Provide Mutual Exclusion</b>
   - [Amusement Park Ride: Boarding Passengers (w/ Semaphores)](https://github.com/axelauda/Finding-Amicable-Number-Pairs-w-Threads-)
+- <b>Python</b>
+  - [Email Database w/ Announcements (EZGmail API, Tkinter)](https://github.com/axelauda/Email-Database-w-Announcements)
 - <b>Using Recursion to Traverse Whole Chessboard w/ Knight</b>
   - [Full Knight Traversal on n-size Chessboard](https://github.com/axelauda/Full-Night-Traversal-on-n-size-Chessboard)
 <!--
