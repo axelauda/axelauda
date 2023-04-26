@@ -9,8 +9,7 @@
 - <b>Using Semaphores to Provide Mutual Exclusion</b>
   - [Amusement Park Ride & Boarding Passengers (w/ Semaphores)](https://github.com/axelauda/Finding-Amicable-Number-Pairs-w-Threads-)
 - <b>Using Recursion to Traverse Whole Chessboard w/ Knight</b>
-  - [Full Knight Traversal on n-size Chessboard](https://github.com/axelauda/Finding-Amicable-Number-Pairs-w-Threads-)
-
+  - [Full Knight Traversal on n-size Chessboard](https://github.com/axelauda/Full-Night-Traversal-on-n-size-Chessboard)
 <!--
 **axelauda/axelauda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
