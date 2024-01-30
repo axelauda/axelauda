@@ -10,6 +10,8 @@
   - [Email Database w/ Announcements (EZGmail API, Tkinter)](https://github.com/axelauda/Email-Database-w-Announcements)
 - <b>Using Recursion to Traverse Whole Chessboard w/ Knight</b>
   - [Full Knight Traversal on (nxn)-size Chessboard](https://github.com/axelauda/Full-Knight-Traversal-on-n-size-Chessboard)
+- <b>Machine Learning to Predict House Prices</b>
+  - [OLS and SGD Regression Machine Learning Models](https://github.com/axelauda/LinearHousingPredictor)
 <!--
 **axelauda/axelauda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
